@@ -42,6 +42,15 @@ def say_hello(name):
 
 #    c) Call `say_hello` with a friend's name as the argument
 
+#     a) Call 'say hello' (Dr EB)
+#      import turtle
+#      open turtle
+#    Move Turtle (90)
+#     Move Turtle (40)
+#    Move Turtle (50
+    turtle.exitonclick
+
+
 
 # 3. Call `draw_spiral` with the following arguments:
 #    a) use 5 for `num_loops`

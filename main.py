@@ -10,7 +10,7 @@ def dance():
  #`pi` is a  ...variable.
 pi = 3.1415926535
 
-convert` is a function...
+convert` is a variable..
 `celcius` is a parameter]...
 def convert(celcius):
  `fahrenheit` is a variable
@@ -45,17 +45,17 @@ say_hello("Graham")
    a) Call 'say hello' (Dr EB)
 
 
-# 3. Call `draw_spiral` with the following arguments:
-#    a) use 5 for `num_loops`
-#       use 10 for `distance`
-#       use 45 for `angle`
+ 3. Call `draw_spiral` with the following arguments:
+   a) use 5 for `num_loops`
+     use 10 for `distance`
+   use 45 for `angle`
 
-#    b) use 11 for `num_loops`
-#       use 5 for `distance`
-#       use 120 for `angle`
+   b) use 11 for `num_loops`
+      use 5 for `distance`
+       use 120 for `angle`
 
-#    c) use 20 for `num_loops`
-#       use 1 for `distance`
-#       use 60 for `angle`
+   c) use 20 for `num_loops`
+      use 1 for `distance`
+      use 60 for `angle`
 
 # turtle.exitonclick()
